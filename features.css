@@ -1,0 +1,41 @@
+#features {
+    display: flex;
+    align-items: center;
+    /* gap: 40px;
+    padding: 60px 20px; */
+}
+
+.feature-image img {
+    width: 500px;
+    margin-left: 60px;
+    
+}
+
+.feature-content {
+    width: 500px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    
+}
+
+.feature-content h4 {
+    color: red;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.feature-content h3 {
+    color: red;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+}
+
+.feature-content .feature {
+    margin-bottom: 20px;
+}
+
+.feature-content .feature i {
+    color: red;
+    margin-right: 10px;
+}
